@@ -1,2 +1,2 @@
 # seoul_transportation
-Seoul subway lines
+Seoul subway lines geojson files
